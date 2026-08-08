@@ -104,7 +104,7 @@ For any prediction, Grad-CAM shows exactly where in the X-ray the model focused.
 This step matters clinically: a high probability score alone isn't trustworthy without knowing whether the model is actually looking at the relevant anatomy (e.g., the heart border for Cardiomegaly) rather than an unrelated artifact like text or a pacemaker wire.
 
 ### Preview of the full notebook
-![Notebook preview](Notebook Preview.png)
+![Notebook preview](notebook_screenshot.png)
 
 ---
 
